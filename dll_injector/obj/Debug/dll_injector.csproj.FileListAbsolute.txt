@@ -1,0 +1,7 @@
+C:\Users\piyadist\source\repos\dll_injector\dll_injector\bin\Debug\dll_injector.exe.config
+C:\Users\piyadist\source\repos\dll_injector\dll_injector\bin\Debug\dll_injector.exe
+C:\Users\piyadist\source\repos\dll_injector\dll_injector\bin\Debug\dll_injector.pdb
+C:\Users\piyadist\source\repos\dll_injector\dll_injector\obj\Debug\dll_injector.csprojAssemblyReference.cache
+C:\Users\piyadist\source\repos\dll_injector\dll_injector\obj\Debug\dll_injector.csproj.CoreCompileInputs.cache
+C:\Users\piyadist\source\repos\dll_injector\dll_injector\obj\Debug\dll_injector.exe
+C:\Users\piyadist\source\repos\dll_injector\dll_injector\obj\Debug\dll_injector.pdb
